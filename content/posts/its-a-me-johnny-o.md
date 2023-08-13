@@ -1,6 +1,6 @@
 ---
 title: "It's A-Me, Johnny-O!"
-date: 2023-08-13T15:28:20-04:00
+date: 2023-08-01T15:28:20-04:00
 draft: false
 image: /images/its-a-me-johnny-o.png
 ---
