@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johnny Smells</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Johnny Smells</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Aug 2023 15:28:20 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It&#39;s A-Me Johnny-O</title>
+      <link>http://example.org/posts/its-a-me-johnny-o/</link>
+      <pubDate>Sun, 13 Aug 2023 15:28:20 -0400</pubDate>
+      
+      <guid>http://example.org/posts/its-a-me-johnny-o/</guid>
+      <description>It&amp;rsquo;s A-Me, Johnny-O! This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>
